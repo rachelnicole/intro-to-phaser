@@ -21,3 +21,4 @@ Things we'll Learn
  - How to utilize git deployment to build your game in an Azure Web App or Github Pages
 
 
+If we're using github pages, we'll be able to view the site at: https://YOUR_GITHUB_USERNAME.github.io/intro-to-phaser/.
